@@ -1,0 +1,3 @@
+uhhh this stuff and python
+pip install playwright
+playwright install chromium
